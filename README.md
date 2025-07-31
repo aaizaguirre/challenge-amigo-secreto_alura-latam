@@ -1,26 +1,30 @@
 # 🎁 Challenge-amigo-secreto_alura-latam
-
-Este es un proyecto web simple e interactivo que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para elegir al "amigo secreto" entre los participantes.  
+![Portada del proyecto](assets/badge-.webp)  
+Este es un proyecto web simple e interactivo que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para elegir al "amigo secreto" entre los participantes.
 
 ---
+
 ## 🌐 Descripción
 
-El objetivo de este proyecto es ofrecer una forma práctica y divertida de sortear un amigo secreto entre un grupo de personas. Los usuarios pueden ingresar nombres en una lista, y con un solo clic se selecciona aleatoriamente uno de ellos como el "amigo secreto sorteado".  
-  
+El objetivo de este proyecto es ofrecer una forma práctica y divertida de sortear un amigo secreto entre un grupo de personas. Los usuarios pueden ingresar nombres en una lista, y con un solo clic se selecciona aleatoriamente uno de ellos como el "amigo secreto sorteado".
+
 ---
+
 ## 🚀 Tecnologías utilizadas
 
 - **HTML5** – Estructura del sitio.
 - **CSS3** – Estilos personalizados, tipografía y diseño visual adaptable.
 - **JavaScript** – Lógica para agregar nombres, mostrar la lista y realizar el sorteo.
-  
+
 ---
+
 ## 📸 Capturas de pantalla
 
-![Lista de nombres insertados](assets/lista-amigos.jpeg)
-![Nombre de amigo sorteado](assets/amigo-sorteado.jpeg)  
-  
+![Lista de nombres insertados](assets/lista-amigos.jpeg)  
+![Nombre de amigo sorteado](assets/amigo-sorteado.jpeg)
+
 ---
+
 ## 🛠️ Cómo usar
 
 1. Clona el repositorio:
